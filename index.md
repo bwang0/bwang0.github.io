@@ -12,7 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 _is itaLIC or what_
 
-`this is code`
+`this is code quote`
 
 This is [exmplae link](https://google.com "what is bwang title")
 
