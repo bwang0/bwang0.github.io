@@ -14,6 +14,8 @@ _is itaLIC or what_
 
 This is [exmplae link](https://google.com "what is bwang title")
 
+Here is my [1st post](/2017/firstpost.html)
+
 ```markdown
 Syntax highlighted code block
 
