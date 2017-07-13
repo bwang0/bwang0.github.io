@@ -4,6 +4,8 @@
 
 ### Markdown
 
+{% include test.md %}
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 **Is bold or what**
