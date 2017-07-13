@@ -12,6 +12,8 @@ _is itaLIC or what_
 
 `this is code`
 
+This is [exmplae link](https://google.com "what is bwang title")
+
 ```markdown
 Syntax highlighted code block
 
